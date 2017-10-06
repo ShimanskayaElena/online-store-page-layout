@@ -1,2 +1,9 @@
 node_modules
 bower_components
+build
+src
+.bowerrc
+bower.json
+gulpfile.js
+img.jpg
+paskage.json
