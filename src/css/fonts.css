@@ -1,0 +1,40 @@
+/* font-family: "OpenSansRegular"; */
+@font-face {
+    font-family: "OpenSansRegular";
+    src: url("src/fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype"), /*для просмотра в браузере без сборки с gulp*/
+    url("fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype"); /*для сборки с помощью gulp*/
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "OpenSansLight"; */
+@font-face {
+    font-family: "OpenSansLight";
+    src: url("src/fonts/OpenSansLight/OpenSansLight.ttf") format("truetype"), /*для просмотра в браузере без сборки с gulp*/
+    url("fonts/OpenSansLight/OpenSansLight.ttf") format("truetype"); /*для сборки с помощью gulp*/
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "OpenSansBold"; */
+@font-face {
+    font-family: "OpenSansBold";
+    src: url("src/fonts/OpenSansBold/OpenSansBold.ttf") format("truetype"), /*для просмотра в браузере без сборки с gulp*/
+    url("fonts/OpenSansBold/OpenSansBold.ttf") format("truetype"); /*для сборки с помощью gulp*/
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "OpenSansItalic"; */
+@font-face {
+    font-family: "OpenSansItalic";
+    src: url("src/fonts/OpenSansItalic/OpenSansItalic.ttf") format("truetype"), /*для просмотра в браузере без сборки с gulp*/
+    url("fonts/OpenSansItalic/OpenSansItalic.ttf") format("truetype"); /*для сборки с помощью gulp*/
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "OpenSansBoldItalic"; */
+@font-face {
+    font-family: "OpenSansBoldItalic";
+    src: url("src/fonts/OpenSansBoldItalic/OpenSansBoldItalic.ttf") format("truetype"), /*для просмотра в браузере без сборки с gulp*/
+    url("fonts/OpenSansBoldItalic/OpenSansBoldItalic.ttf") format("truetype"); /*для сборки с помощью gulp*/
+    font-style: normal;
+    font-weight: normal;
+}
